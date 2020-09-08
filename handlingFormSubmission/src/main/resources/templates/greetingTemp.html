@@ -3,16 +3,40 @@
 <head>
     <title>Getting Started: Handling Form Submission</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link th:href="@{/styles/css/main.css}" rel="stylesheet" />
 </head>
 <body>
 
-    <h1>Form</h1>
-    <form action="#" th:action="@{/greeting}" th:object="${greeting}"
-          method="post">
-        <p>Id: <input type="text" th:field="*{id}"/></p>
-        <p>Message: <input type="text" th:field="*{content}"/></p>
-        <p><input type="submit" value="SUBMIT"/><input type="reset"
-                                                       value="RESET"/></p>
-    </form>
+    <div>
+        <h1>Form</h1>
+        <form action="#" th:action="@{/greeting}" th:object="${greeting}"
+              method="post">
+            <p>Id: <input type="text" th:field="*{id}"/></p>
+            <p>Message: <input type="text" th:field="*{content}"/></p>
+            <p>
+                <input type="submit" value="SUBMIT"/>
+                <input type="reset"value="RESET"/>
+            </p>
+        </form>
+    </div>
+
+    <div>
+        <table>
+            <tbody>
+            <tr th:each="greeting : ${greetingsList}">
+                <td th:text="${greeting.id}">Id</td>
+                <td th:text="${greeting.content}">Message</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h1>Result</h1>
+
+
+    <p th:text="'id: ' + ${greeting.id}"></p>
+    <p th:text="'content: ' + ${greeting.content}"></p>
+    <a href="/greeting">Submit a new message</a>
+
 </body>
 </html>

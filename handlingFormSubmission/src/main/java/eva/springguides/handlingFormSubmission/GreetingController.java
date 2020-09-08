@@ -10,15 +10,26 @@ import org.springframework.web.bind.annotation.PostMapping;
 public class GreetingController {
 
 
+    private final GreetingService greetingService;
+
+    public GreetingController(GreetingService greetingService) {
+        this.greetingService = greetingService;
+    }
+
+
     @GetMapping("/greeting")
     public String greetingForm(Model model){
         model.addAttribute("greeting", new Greeting());
+        model.addAttribute("greetingsList", greetingService.findAll());
         return "greetingTemp";
     }
 
     @PostMapping("/greeting")
-    public String greetingSubmit(@ModelAttribute("myGreeting") Greeting greeting, Model model){
-        model.addAttribute("greeting", greeting);
-        return "resultTemp";
+    public String greetingSubmit(@ModelAttribute("greeting") Greeting greeting, Model model){
+        greetingService.addGreeting(greeting);
+        model.addAttribute("greetingsList", greetingService.findAll());
+        return "greetingTemp";
     }
+
+
 }
