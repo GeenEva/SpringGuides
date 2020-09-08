@@ -18,8 +18,7 @@ public class GreetingController {
 
 
     @GetMapping("/greeting")
-    public String greetingForm(Model model){
-        model.addAttribute("greeting", new Greeting());
+    public String greetingForm(Greeting greeting, Model model){
         model.addAttribute("greetingsList", greetingService.findAll());
         return "greetingTemp";
     }
