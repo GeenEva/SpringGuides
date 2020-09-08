@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61a5507d-1c5a-46d8-af7c-b6f39f7e58ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/validatingFormInput/src/main/resources/static/style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validatingFormInput/src/main/resources/templates/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validatingFormInput/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/validatingFormInput/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validatingFormInput/src/main/java/eva/springguides/validatingFormInput/PersonForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/validatingFormInput/src/main/java/eva/springguides/validatingFormInput/PersonForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validatingFormInput/src/main/java/eva/springguides/validatingFormInput/WebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/validatingFormInput/src/main/java/eva/springguides/validatingFormInput/WebController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validatingFormInput/src/main/resources/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/validatingFormInput/src/main/resources/templates/form.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Thymeleaf file" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,10 +51,87 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1hDovIeXWj28EnpFLdpxMOAczeT" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/validatingFormInput/src/main/resources/static/style" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/validatingFormInput/src/main/resources/static/style" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ValidatingFormInputApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eva.springguides.validatingFormInput.ValidatingFormInputApplication" />
+      <module name="validatingFormInput" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eva.springguides.validatingFormInput.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValidatingFormInputApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a5507d-1c5a-46d8-af7c-b6f39f7e58ef" name="Default Changelist" comment="" />
+      <created>1599555252569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599555252569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="892" y="350" key="#com.intellij.ide.util.MemberChooser" timestamp="1599555462865">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="892" y="350" key="#com.intellij.ide.util.MemberChooser/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599555462865" />
+    <state width="1823" height="361" key="GridCell.Tab.0.bottom" timestamp="1599559954542">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1823" height="361" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599559954542" />
+    <state width="1823" height="361" key="GridCell.Tab.0.center" timestamp="1599559954541">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1823" height="361" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599559954541" />
+    <state width="1823" height="361" key="GridCell.Tab.0.left" timestamp="1599559954541">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1823" height="361" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599559954541" />
+    <state width="1823" height="361" key="GridCell.Tab.0.right" timestamp="1599559954542">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1823" height="361" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599559954542" />
+    <state x="617" y="321" key="Maven.ArtifactSearchDialog" timestamp="1599555770666">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="617" y="321" key="Maven.ArtifactSearchDialog/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599555770666" />
   </component>
 </project>
