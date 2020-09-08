@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a5507d-1c5a-46d8-af7c-b6f39f7e58ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/validatingFormInput/src/main/resources/static/style/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validatingFormInput/src/main/resources/templates/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validatingFormInput/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/validatingFormInput/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validatingFormInput/src/main/java/eva/springguides/validatingFormInput/PersonForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/validatingFormInput/src/main/java/eva/springguides/validatingFormInput/PersonForm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validatingFormInput/src/main/java/eva/springguides/validatingFormInput/WebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/validatingFormInput/src/main/java/eva/springguides/validatingFormInput/WebController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validatingFormInput/src/main/resources/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/validatingFormInput/src/main/resources/templates/form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,22 +107,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="892" y="350" key="#com.intellij.ide.util.MemberChooser/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599555462865" />
-    <state width="1823" height="361" key="GridCell.Tab.0.bottom" timestamp="1599559954542">
+    <state width="1823" height="361" key="GridCell.Tab.0.bottom" timestamp="1599563727782">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1823" height="361" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599559954542" />
-    <state width="1823" height="361" key="GridCell.Tab.0.center" timestamp="1599559954541">
+    <state width="1823" height="361" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599563727782" />
+    <state width="1823" height="361" key="GridCell.Tab.0.center" timestamp="1599563727779">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1823" height="361" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599559954541" />
-    <state width="1823" height="361" key="GridCell.Tab.0.left" timestamp="1599559954541">
+    <state width="1823" height="361" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599563727779" />
+    <state width="1823" height="361" key="GridCell.Tab.0.left" timestamp="1599563727777">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1823" height="361" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599559954541" />
-    <state width="1823" height="361" key="GridCell.Tab.0.right" timestamp="1599559954542">
+    <state width="1823" height="361" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599563727777" />
+    <state width="1823" height="361" key="GridCell.Tab.0.right" timestamp="1599563727780">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1823" height="361" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599559954542" />
+    <state width="1823" height="361" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599563727780" />
     <state x="617" y="321" key="Maven.ArtifactSearchDialog" timestamp="1599555770666">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
