@@ -19,18 +19,19 @@
             </p>
         </form>
     </div>
-
     <div>
-        <table>
-            <tbody>
-            <tr th:each="greeting : ${greetingsList}">
-                <td th:text="${greeting.id}">Id</td>
-                <td th:text="${greeting.content}">Message</td>
-            </tr>
-            </tbody>
-        </table>
-    </div>
+        <form>
+            <table>
+                <tbody>
+                <tr th:each="greeting : ${greetingsList}">
+                    <td th:text="${greeting.id}">Id</td>
+                    <td th:text="${greeting.content}">Message</td>
+                </tr>
+                </tbody>
 
+            </table>
+        </form>
+    </div>
     <h1>Result</h1>
 
 

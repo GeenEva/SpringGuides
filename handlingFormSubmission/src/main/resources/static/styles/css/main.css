@@ -23,6 +23,9 @@ body {
 
 form {
     background-color: pink;
+    display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
 }
 
 input[type=text] {
@@ -31,4 +34,16 @@ input[type=text] {
   margin: 8px 0;
   box-sizing: border-box;
   background-color: #3CBC8D;
+}
+
+table.body{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+div.form
+{
+    display: block;
+    text-align: center;
 }
