@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SecuringAWebApplication/SecuringAWebApplication.iml" filepath="$PROJECT_DIR$/SecuringAWebApplication/SecuringAWebApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringGuides.iml" filepath="$PROJECT_DIR$/.idea/SpringGuides.iml" />
       <module fileurl="file://$PROJECT_DIR$/validatingFormInput/validatingFormInput.iml" filepath="$PROJECT_DIR$/validatingFormInput/validatingFormInput.iml" />
     </modules>

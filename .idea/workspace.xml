@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a5507d-1c5a-46d8-af7c-b6f39f7e58ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/java/eva/springguides/SecuringAWebApplication/MvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecuringAWebApplication/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SecuringAWebApplication/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Thymeleaf file" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,7 +69,20 @@
       <recent name="$PROJECT_DIR$/validatingFormInput/src/main/resources/static/style" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SecuringAWebApplication">
+    <configuration name="SecuringAWebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eva.springguides.SecuringAWebApplication.SecuringAWebApplication" />
+      <module name="SecuringAWebApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eva.springguides.SecuringAWebApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidatingFormInputApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="eva.springguides.validatingFormInput.ValidatingFormInputApplication" />
       <module name="validatingFormInput" />
@@ -77,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecuringAWebApplication" />
         <item itemvalue="Application.ValidatingFormInputApplication" />
       </list>
     </recent_temporary>
@@ -101,28 +123,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="892" y="350" key="#com.intellij.ide.util.MemberChooser" timestamp="1599555462865">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="892" y="350" key="#com.intellij.ide.util.MemberChooser/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599555462865" />
-    <state width="1823" height="361" key="GridCell.Tab.0.bottom" timestamp="1599563727782">
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom" timestamp="1599567212844">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1823" height="361" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599563727782" />
-    <state width="1823" height="361" key="GridCell.Tab.0.center" timestamp="1599563727779">
+    <state width="2518" height="408" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599567212844" />
+    <state width="2518" height="408" key="GridCell.Tab.0.center" timestamp="1599567212843">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1823" height="361" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599563727779" />
-    <state width="1823" height="361" key="GridCell.Tab.0.left" timestamp="1599563727777">
+    <state width="2518" height="408" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599567212843" />
+    <state width="2518" height="408" key="GridCell.Tab.0.left" timestamp="1599567212842">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1823" height="361" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599563727777" />
-    <state width="1823" height="361" key="GridCell.Tab.0.right" timestamp="1599563727780">
+    <state width="2518" height="408" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599567212842" />
+    <state width="2518" height="408" key="GridCell.Tab.0.right" timestamp="1599567212844">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1823" height="361" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599563727780" />
+    <state width="2518" height="408" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599567212844" />
     <state x="617" y="321" key="Maven.ArtifactSearchDialog" timestamp="1599555770666">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
