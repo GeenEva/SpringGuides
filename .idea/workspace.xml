@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a5507d-1c5a-46d8-af7c-b6f39f7e58ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/rosegarden.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecuringAWebApplication/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SecuringAWebApplication/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecuringAWebApplication/src/main/java/eva/springguides/SecuringAWebApplication/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/java/eva/springguides/SecuringAWebApplication/WebSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecuringAWebApplication/src/main/java/eva/springguides/SecuringAWebApplication/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/java/eva/springguides/SecuringAWebApplication/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +56,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/validatingFormInput/src/main/resources/static/style" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SecuringAWebApplication/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/validatingFormInput/src/main/resources/static/style" />
     </key>
   </component>
@@ -128,22 +127,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="892" y="350" key="#com.intellij.ide.util.MemberChooser/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599555462865" />
-    <state width="2518" height="407" key="GridCell.Tab.0.bottom" timestamp="1599640625850">
+    <state width="2518" height="407" key="GridCell.Tab.0.bottom" timestamp="1599643125408">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2518" height="407" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599640625850" />
-    <state width="2518" height="407" key="GridCell.Tab.0.center" timestamp="1599640625848">
+    <state width="2518" height="407" key="GridCell.Tab.0.bottom/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599643125408" />
+    <state width="2518" height="407" key="GridCell.Tab.0.center" timestamp="1599643125407">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2518" height="407" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599640625848" />
-    <state width="2518" height="407" key="GridCell.Tab.0.left" timestamp="1599640625846">
+    <state width="2518" height="407" key="GridCell.Tab.0.center/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599643125407" />
+    <state width="2518" height="407" key="GridCell.Tab.0.left" timestamp="1599643125407">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2518" height="407" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599640625846" />
-    <state width="2518" height="407" key="GridCell.Tab.0.right" timestamp="1599640625849">
+    <state width="2518" height="407" key="GridCell.Tab.0.left/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599643125407" />
+    <state width="2518" height="407" key="GridCell.Tab.0.right" timestamp="1599643125407">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="2518" height="407" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599640625849" />
+    <state width="2518" height="407" key="GridCell.Tab.0.right/2560.23.1440.877/0.23.2560.1417@0.23.2560.1417" timestamp="1599643125407" />
     <state x="617" y="321" key="Maven.ArtifactSearchDialog" timestamp="1599555770666">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
